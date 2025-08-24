@@ -8,6 +8,6 @@
 
 </div>
 
-### Demo Screeshots
+### Demo Screenshots
 
-![Portfolio Desktop Demo](readme-images/mashmelo.jpg "Desktop Demo")
+![Portfolio Desktop Demo](images/mashmelo.jpg "Desktop Demo") 
