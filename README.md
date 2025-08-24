@@ -10,4 +10,4 @@
 
 ### Demo Screeshots
 
-![Portfolio Desktop Demo](./readme-images/mashmelo.jpg "Desktop Demo")
+![Portfolio Desktop Demo](readme-images/mashmelo.jpg "Desktop Demo")
